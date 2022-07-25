@@ -9,7 +9,7 @@
 
 ## Discord Server
 ```js
- * discord.gg/onlp | Tekky#9999
+ * discord.gg/xtwitxh | &! Tekky#1337
 ```
 
 ## Features
